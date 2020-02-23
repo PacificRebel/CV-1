@@ -12,22 +12,22 @@
 
 ## About Me
 
-I'm a software developer (and a chartered structural engineer) currently working with `React`, `JavaScript (ES6+)`, `Ruby on Rails` and `Python`/`Django`.   
+I'm a software developer (and a chartered structural engineer) currently working with `React`, `NodeJS`, `Ruby on Rails` and `Python`/`Django`.   
 
 Inspired by the work of creative agencies, I self-learned `HTML`/`CSS` and `JavaScript` at 13 to design a personal blog, and went on to help friends build a business website using `Flash`/`ActionScript` while studying Civil Engineering. Now, after a decade of structural engineering &mdash; a career I am proud of nonetheless &mdash; I realised that my true passion lies in Tech. I wanted more room to innovate, and thus embarked on a career change to become a software developer.   
 
-Self-driven, self-learning and a recent graduate of software craftsmanship at **[Makers Academy](https://www.makers.tech)**, I'm looking for a role where I can collaborate with awesome people to turn great ideas into beautiful and revolutionary digital products.
+Self-driven, self-learning and a recent graduate of software craftsmanship at **[Makers Academy](https://www.makers.tech)**, I'm looking for a role where I can collaborate with awesome people to turn great ideas into exciting digital products.
 
 &nbsp;
 
 ## Projects
 
-| Project | Summary | Purpose |  Tech Stack  | Testing |
-|:----------:|:----------|:----------|:----------|:-----|
-| **Tribes** <br> (ongoing) | <img src="public/Tribes.png"> <br> I'm currently building an e-commerce platform that will not only enable online purchases, but also manage order fulfilment and optimise production schedules on the supplier backend. Server-side rendering (SSR) with React+Next.js is used to improve SEO and user experience. [View interim demo (limited features)](https://tribes-demo.herokuapp.com)| Freelance project | `React` `Next.js` `Apollo` `GraphQL` `Prisma` `Stripe` | `Jest` `Enzyme` |
-| [**Travelist**](https://github.com/melvinlau/travelist) | <img src="public/Travelist.png"> <br> Travelist helps you to pack effectively for upcoming trips. You describe your itinerary, and Travelist will recommend you a list of items to pack based on the weather forecast and your planned activities. You can then personalise your list and track your packing progress. [View the live demo.](https://travelistmakers.herokuapp.com/) | Team final project at Makers | `MongoDB` `Express` `React 16` `Node` `HTML` `CSS` | `Cypress` `Jest` `Enzyme` |
-| [**AceBook**](https://github.com/melvinlau/acebook-facebuzz) | <img src="public/Acebook.png"> <br> AceBook is a social network where users can connect by posting messages and uploading images on each other's walls. [View the live demo.](https://acebook-facebuzz.herokuapp.com) | Team engineering project at Makers | `PostgreSQL` `Ruby on Rails` `HTML` `CSS` | `RSpec` `Capybara` |
-| [**Chitter**](https://github.com/melvinlau/chitter-challenge) | <img src="public/Chitter.png"> <br> Chitter is a web app that allows users to register, sign in and post short messages ('peeps') to a public feed. It mimics the basic functionality of Twitter. | Individual project | `PostgreSQL` `Ruby` `Sinatra` `HTML` `CSS` | `RSpec` `Capybara` |     
+| Project Details  | Preview |
+|:----------|:----------:|
+| <h3>Tribes </h3>  <h4>Freelance Project (Work In Progress)</h4><p>I'm currently building an e-commerce platform that will not only enable online purchases, but also manage order fulfilment and optimise production schedules on the supplier backend. Server-side rendering (SSR) with React+Next.js is used to improve SEO and user experience.</p><h4>Tech Stack</h4><p>`React (Hooks)` `Next.js` `NodeJS` `Apollo` `GraphQL` `Prisma` `Stripe`</p><h4>Testing Frameworks</h4><p>`Jest` `Enzyme`</p> | <center><img src="public/Tribes.png"> <br> [View interim demo (limited features)](https://tribes-demo.herokuapp.com) </center>|   
+| <h3>[Travelist](https://github.com/melvinlau/travelist)</h3> <h4>Team Final Project at Makers</h4> <p>Travelist helps you to pack effectively for upcoming trips. You describe your itinerary, and Travelist will recommend you a list of items to pack based on the weather forecast and your planned activities. You can then personalise your list and track your packing progress.</p> <h4>Tech Stack</h4> <p>`MongoDB` `Express` `React (Hooks)` `NodeJS` `HTML` `CSS`</p> <h4>Testing Frameworks</h4> <p>`Cypress` `Jest` `Enzyme`</p> | <center><img src="public/Travelist.png"> <br> &nbsp; [View the live demo.](https://travelistmakers.herokuapp.com/) <br> </center> |  
+| <h3>[AceBook](https://github.com/melvinlau/acebook-facebuzz)</h3> <h4>Team Engineering Project at Makers</h4> <p>AceBook is a social network where users can connect by posting messages and uploading images on each other's walls. AceBook was developed according to the instructions of a Makers technical coach acting as the client.</p> <h4>Tech Stack</h4> <p>`PostgreSQL` `Ruby on Rails` `HTML` `CSS`</p> <h4>Testing Frameworks</h4> <p>`RSpec` `Capybara`</p> | <center><img src="public/Acebook.png"> <br>  [View the live demo.](https://acebook-facebuzz.herokuapp.com) <br> &nbsp; </center> |   
+| <h3>[Chitter](https://github.com/melvinlau/chitter-challenge) </h3> <h4>Individual Project </h4><p>Chitter is a web app that allows users to register, sign in and post short messages ('peeps') to a public feed. It mimics the basic functionality of Twitter.</p> <h4>Tech Stack</h4> <p>`PostgreSQL` `Ruby` `Sinatra` `HTML` `CSS`</p> <h4>Testing Frameworks</h4> <p>`RSpec` `Capybara`</p> | <center><img src="public/Chitter.png"> <br> &nbsp; </center> |
 
 &nbsp;
 
